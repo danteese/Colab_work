@@ -1,4 +1,7 @@
 #include "libraries.h"
+extern void _lista1( void );
+extern void _lista2( void );
+extern void _lista3( void );
 void help( void );
 
 int main( int argc, char **argv ){
